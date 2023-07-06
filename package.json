@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc index.ts"
+    "build": "tsc --target esnext --module nodenext index.ts"
   },
   "dependencies": {
     "starknet": "^5.16.0",
