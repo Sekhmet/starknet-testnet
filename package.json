@@ -1,0 +1,13 @@
+{
+  "name": "starknet-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "dependencies": {
+    "starknet": "^5.16.0",
+    "typescript": "^5.1.6"
+  }
+}
