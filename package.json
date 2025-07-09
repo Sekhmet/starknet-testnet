@@ -7,7 +7,7 @@
     "build": "tsc --target esnext --module nodenext index.ts"
   },
   "dependencies": {
-    "starknet": "^5.16.0",
-    "typescript": "^5.1.6"
+    "starknet": "7.6.2",
+    "typescript": "^5.8.3"
   }
 }
